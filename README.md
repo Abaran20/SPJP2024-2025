@@ -5,3 +5,4 @@
 - [Michał Zakrzewski](https://github.com/ZakrzewskiM30/SPJP2024-2025)
 - [Michał Koszałka](https://github.com/Majkel631)
 - [Julia Aftyka](https://github.com/JAftyka/New)
+- [Aleksander Baran](https://github.com/Abaran20/srodowisko-programistyczne)
